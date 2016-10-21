@@ -27,6 +27,8 @@ For more information about the data, check [this](https://github.com/suhas2go/Fl
 
 ### Method used
  * Modified K-Means Clustering Algorithm: a data point is assigned to the nearest cluster that is capable of accomodating the point.
+
+For the detailed explanation about the exact steps taken to the solve the problem, please download and refer the [documentation](https://github.com/suhas2go/Flash_Breach/blob/master/documentation/Flash and Breach .html)
  
 ### Possible Improvements
  * Partitioning of the dataset to increase speed
